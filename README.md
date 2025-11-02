@@ -222,7 +222,7 @@ Excel               → Supplementary data source
 ---
 
 ### 👥 Customer Intelligence
-img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65587aa8-c10b-4fa3-a265-0d9a86e66c7e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65587aa8-c10b-4fa3-a265-0d9a86e66c7e" />
 *10.5K unique customers with segmentation by income level, occupation, and top 100 customer leaderboard*
 
 ### 👥 Key Influencer
