@@ -167,19 +167,6 @@ Excel               → Supplementary data source
 
 ---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3e7c615-c2f1-40c4-b0f4-f9175e8befc0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cad04385-767a-41c0-bd2a-76f9961a9ec7" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/670729d3-ed34-4a7e-852b-3920af945c8e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65587aa8-c10b-4fa3-a265-0d9a86e66c7e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/022b8498-9a94-4d2b-ae58-68b75acb1711" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7909e488-2be7-4688-bb85-802f2fc20b56" />
-
-
-
-
-
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -217,26 +204,29 @@ Excel               → Supplementary data source
 <div align="center">
 
 ### 📊 Executive Dashboard
-![Executive Dashboard](images/dashboard-executive.png)
+![Executive Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3e7c615-c2f1-40c4-b0f4-f9175e8befc0" />)
 *Comprehensive overview with $24.9M revenue, $10.5M profit, and 25.2K orders tracking*
 
 ---
 
 ### 🗺️ Geographic Analysis
-![Geographic Map](images/dashboard-map.png)
+![Geographic Map](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cad04385-767a-41c0-bd2a-76f9961a9ec7" />)
 *Interactive world map showing performance across 6 territories: US, Canada, Australia, UK, France, and Germany*
 
 ---
 
 ### 📦 Product Details & Analysis
-![Product Details](images/dashboard-product.png)
+![Product Details](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/670729d3-ed34-4a7e-852b-3920af945c8e" />)
 *Drill-through product analysis with target vs actual performance, price adjustment simulator, and trend analysis*
 
 ---
 
 ### 👥 Customer Intelligence
-![Customer Analytics](images/dashboard-customer.png)
+![Customer Analytics](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65587aa8-c10b-4fa3-a265-0d9a86e66c7e" />)
 *10.5K unique customers with segmentation by income level, occupation, and top 100 customer leaderboard*
+
+### 👥 Key Influencer
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/022b8498-9a94-4d2b-ae58-68b75acb1711" />
 
 </div>
 
@@ -253,6 +243,8 @@ The report uses a **star schema** architecture with the following structure:
 - **Returns Data** - Product return tracking (0.0% return rate)
 - **Measure Table** - Centralized DAX measures and calculations
 - **Measure Selector** - Dynamic measure selection for interactive analysis
+
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7909e488-2be7-4688-bb85-802f2fc20b56" />
 
 ### 🔍 Dimension Tables
 | Dimension | Description | Key Attributes |
