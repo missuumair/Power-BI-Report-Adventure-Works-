@@ -167,6 +167,11 @@ Excel               → Supplementary data source
 
 ---
 
+![Executive Dashboard](images/exec-dashboard.png)
+   ![Geographic Map](images/geographic-map.png)
+   ![Product Details](images/product-details.png)
+   ![Customer Analytics](images/customer-details.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
