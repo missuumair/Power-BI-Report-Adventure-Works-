@@ -493,9 +493,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Mohammed Misabahuddin**
 
-- 📧 Email: [your.email@example.com](missuumair@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-misabahuddin-834a23222/)
-- 🐙 GitHub: [@missuumair](https://github.com/missuumair)
+- 📧 Email: missuumair@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-misabahuddin-834a23222/
+- 🐙 GitHub: https://github.com/missuumair
 
 
 ---
